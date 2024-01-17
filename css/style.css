@@ -512,10 +512,10 @@ textarea {
     display: flex;
     align-items: center;
     cursor: pointer;
-    color: #333;
+    color: white;
     transition: color .3s; }
     .header__logo-container:hover {
-      color: #0062b9; }
+      color: white; }
   .header__logo-img-cont {
     width: 5rem;
     height: 5rem;
