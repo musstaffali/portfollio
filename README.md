@@ -1,6 +1,6 @@
 ## SkyView
 
-- Live Link - [Live Website](https://musstaffali.github.io/life-habits/)
+- Live Link - [Live Website](https://musstaffali.github.io/portfollio/)
 
 ![](img/screen1.png)
 ![](img/screen2.png)
