@@ -22,7 +22,7 @@
 
 ## Description
 
-A journal where a user can track their sleep, medications, food, drink, and exercises. They can see previous entries as well as see trends in food, sleep, etc.
+Simple portfolio webpage
 
 
 #### Technologies
@@ -30,8 +30,6 @@ A journal where a user can track their sleep, medications, food, drink, and exer
 - NODE.JS
 - HTML
 - CSS
-- BOOTSTRAP
-- jQUERY
 
 [Back To The Top](#read-me-template)
 
