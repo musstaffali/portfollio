@@ -3,9 +3,6 @@
 - Live Link - [Live Website](https://musstaffali.github.io/portfollio/)
 
 ![](img/screen1.png)
-![](img/screen2.png)
-![](img/screen3.png)
-
 
 ---
 
