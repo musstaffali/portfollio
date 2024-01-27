@@ -39,10 +39,10 @@ Simple portfolio webpage
 
 #### Installation
 
-1. Clone this repository https://github.com/musstaffali/life-habits.git
+1. Clone this repository https://github.com/musstaffali
 
 
-2. Open index.html with your browser of choice or open https://musstaffali.github.io/life-habits/
+2. Open index.html with your browser of choice or open https://github.com/musstaffali
 
 
 3. Enjoy!
